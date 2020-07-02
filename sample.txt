@@ -1,2 +1,0 @@
-This is a sample text file for github demo project. This is a test to see if file
-has been modified
